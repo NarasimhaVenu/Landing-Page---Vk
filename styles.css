@@ -27,7 +27,7 @@ body {
       rgba(255, 255, 255, 0.25),
       rgba(255, 255, 255, 0.25)
     ),
-    url("assets/bgs.jpg");
+    url("assets/bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -40,7 +40,7 @@ body {
   min-height: 600px;
   width: 100%;
   max-width: 450px;
-  background-image: url("assets/header.png");
+  background-image: url("assets/headers.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
